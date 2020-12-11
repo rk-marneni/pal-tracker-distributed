@@ -1,4 +1,4 @@
-name: Pal Tracker Distributed Pipeline
+cf name: Pal Tracker Distributed Pipeline
 
 on:
   push:
